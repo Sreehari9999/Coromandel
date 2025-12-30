@@ -4,7 +4,7 @@ import java.io.*;
 
 class Geeks
 {
-    // Function to print N Fibonacci Number
+    // Function to print N Fibonacci Number series
     static void Fibonacci(int N)
     {
         int n1 = 0, n2 = 1;
